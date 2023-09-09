@@ -1,0 +1,133 @@
+{
+    "places": [
+      {
+        "city": "bhilai",
+        "locations": [
+          {
+            "name": "Surya Treasure Island Mall",
+            "location": "https://goo.gl/maps/DBru6YpovFHprXw89"
+          },
+          {
+            "name": "Shubham K mart",
+            "location": "https://goo.gl/maps/QEcUYMxYnAUoqkrn8"
+          },
+          {
+            "name": "Bhilai Nehru Nagar Park",
+            "location": "https://goo.gl/maps/kKCEMxFxJy7GoFjx8"
+          },
+          {
+            "name": "Bhilai Zoo",
+            "location": "https://goo.gl/maps/QgzsuT27daPnviAx9"
+          },
+          {
+            "name": "Bhilai Steel Plant",
+            "location": "https://goo.gl/maps/xAGvd1cWDaMv2Ymz5"
+          }
+
+
+          
+          
+        ]
+      },
+      {
+        "city": "raipur",
+        "locations": [
+          {
+            "name": "Raipur Junction",
+            "location": "https://goo.gl/maps/UXf6j6cPZgnK9Apr5"
+          },
+          {
+            "name": "Mahant Ghasidas Memorial Museum · Ghadi Chowk",
+            "location": "https://goo.gl/maps/uUfJEZhUgj3DUy9b9"
+          },
+          {
+            "name": "marine drive raipur",
+            "location": "https://goo.gl/maps/5wFmrSvTM2KU1ish6"
+          },
+          {
+            "name": "Gandhi Udyan Park",
+            "location": "https://goo.gl/maps/JffY7VZCjqDH8FnE6"
+          }
+        ]
+      },
+      {
+        "city": "bilaspur",
+        "locations": [
+          {
+            "name": "kenan Pendari Zoology Garden",
+            "location":"https://goo.gl/maps/wd5Npo3aXUxG9RJ49"
+          },
+          {
+            "name": "Wonder WOrld",
+            "location":"https://goo.gl/maps/srWSjnkB3yZBWbC4A"
+          },
+          {
+            "name": "Bilasa Taal Vasundhara Udyan",
+            "location":"https://goo.gl/maps/7R6Y3ggd5Rw5XffQ6"
+          },
+          {
+            "name": "Smriti Van Rajkishorenagar",
+            "location":"https://goo.gl/maps/dnx8jgZgcKZ7bUB28"
+          },
+          {
+            "name": "Bubble Island(water park)",
+            "location":"https://goo.gl/maps/oMJD4WKuM6vfHvoJ7"
+          },
+          {
+            "name": "National Flag",
+            "location":"https://goo.gl/maps/uFJuvUgf5MApnb7CA"
+          },{
+            "name": "Dewrani Jethani Temple",
+            "location":"https://goo.gl/maps/SvSna4iU5JaKeKPr5"
+          },
+          {
+            "name": "Rama Magneto Mall, Bilaspur",
+            "location":"https://goo.gl/maps/wTtrXsWjKW35CDh78"
+          },
+          {
+            "name": "Bandhwa Para Talab",
+            "location":"https://goo.gl/maps/ZRAuygYiyZYJNeWf6"
+          },
+          {
+            "name": "Rama Valley Vivekanand Park",
+            "location":"https://goo.gl/maps/AzBhP8gGrfPH8jCd7"
+          },
+          {
+            "name": "Shri Pataleshvara Temple - Bilaspur District, Chhattisgarh, India",
+            "location":"https://goo.gl/maps/9Zuwbphx68vxhGJe9"
+          }
+    ]},
+
+
+      {
+        "city": "delhi",
+        "locations": [
+          {
+            "name": "Gateway of India",
+            "location": "https://maps.app.goo.gl/YXbduRsdRd2cbuRJ9"
+          },
+          {
+            "name": "Akshardham",
+            "location": "https://goo.gl/maps/hioR1B3kUnKaV6e76"
+          },
+          {
+            "name": "Qutub Minar",
+            "location": "https://maps.app.goo.gl/iKjQjCZbWGNAWb2o6"
+          },
+          {
+            "name": "Humayun’s Tomb",
+            "location": "https://g.co/kgs/2mepN5"
+          },
+          {
+            "name": "Raj ghat",
+            "location": "https://maps.app.goo.gl/xJd8YaPfowR5Fc3LA"
+          },
+          {
+            "name": "Gurudwara Sri Bangla Sahib",
+            "location": "https://maps.app.goo.gl/xJd8YaPfowR5Fc3LA"
+          }
+        ]
+      }
+    ]
+  }
+  

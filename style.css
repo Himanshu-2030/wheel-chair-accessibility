@@ -1,0 +1,110 @@
+/* Reset default styles */
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* Styles for the left panel */
+.left-panel {
+  width: 200px;
+  height: 200vh;
+  background-color: #e7dbdb;
+  padding: 20px;
+  float: left;
+}
+
+.left-panel ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.left-panel li {
+  padding: 10px 0;
+}
+
+.left-panel a {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+  text-transform: capitalize;
+  transition: 0.3s ease;
+}
+
+/* Styles for the heading */
+h2 {
+  text-transform: capitalize;
+  padding: 20px 30px;
+  margin-left: 230px;
+  font-size: 28px; /* Adjusted font size for larger screens */
+}
+
+/* Styles for the content section */
+.content {
+  margin-left: 230px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  transition: 0.3s ease;
+}
+
+.div {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(202, 229, 229);
+  transition: 0.3s ease;
+}
+
+.content div {
+  margin: 10px;
+}
+
+/* Additional styles for the About Us section */
+.about-us {
+  padding: 20px 20px 20px 300px;
+  margin: 0px 0px 20px 0px; /* Added margin */
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  font-size: 18px; /* Adjusted font size for larger screens */
+}
+
+.about-us h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.about-us p {
+  margin-bottom: 15px;
+  line-height: 1.5;
+  color: #555;
+}
+
+/* Media Queries for Responsive Design */
+@media screen and (max-width: 768px) {
+  .left-panel {
+    width: 80px;
+  }
+
+  h2 {
+    margin-left: 80px;
+    font-size: 24px; /* Adjusted font size for smaller screens */
+  }
+
+  .content {
+    margin-left: 80px;
+  }
+
+  /* Adjustments for the About Us section on smaller screens */
+  .about-us {
+    padding: 10px; /* Adjusted padding */
+    margin: 10px 0; /* Adjusted margin */
+    font-size: 16px; /* Adjusted font size for smaller screens */
+  }
+
+  .about-us h3 {
+    font-size: 20px; /* Adjusted font size for smaller screens */
+  }
+}
